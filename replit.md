@@ -1,10 +1,6 @@
 # Overview
-
-FeedbackFlow is a full-stack feedback management system that allows users to submit, track, and analyze feedback. The application features a dashboard for viewing analytics, a submission form for new feedback, and comprehensive management tools for organizing and responding to user feedback. It includes sentiment analysis, categorization, and real-time analytics with interactive charts.
-
-# User Preferences
-
-Preferred communication style: Simple, everyday language.
+Hi :)
+Insightoard is a full-stack feedback management system that allows users to submit, track, and analyze feedback. The application features a dashboard for viewing analytics, a submission form for new feedback, and comprehensive management tools for organizing and responding to user feedback. It includes sentiment analysis, categorization, and real-time analytics with interactive charts.
 
 # System Architecture
 
