@@ -2,13 +2,11 @@
 
 Hi there!! InsightBoard is a full-stack web application for collecting, analyzing, and managing user feedback. Built with React, Node.js, and TypeScript, it’s designed to showcase modern web development and product thinking, helping teams use feedback loops to improve their products.
 
----
 
 ## What It Does
 
 InsightBoard lets users submit feedback via a simple form and provides product managers with a dashboard to track, categorize, and respond to that feedback.
 
----
 
 ## Key Features
 
@@ -19,7 +17,6 @@ InsightBoard lets users submit feedback via a simple form and provides product m
 - **Responsive Design**: Works great on desktop and mobile
 - **Status Workflow**: Track feedback from "New" → "In Progress" → "Resolved"
 
----
 
 ## Tech Stack
 
@@ -56,7 +53,6 @@ Open your browser to [http://localhost:5000](http://localhost:5000).
 
 Both frontend and backend run simultaneously.
 
----
 
 ## How to Use
 
@@ -77,4 +73,3 @@ Use action buttons to move feedback through the workflow:
 -  Edit: Mark as "In Progress"
 -  Resolve: Mark as "Resolved"
 
----
